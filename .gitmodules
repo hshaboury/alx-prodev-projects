@@ -1,0 +1,3 @@
+[submodule "alx-intermediate-frontend"]
+	path = alx-intermediate-frontend
+	url = https://github.com/hshaboury/alx-intermediate-frontend.git
