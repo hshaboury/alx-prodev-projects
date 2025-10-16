@@ -1,3 +1,6 @@
 [submodule "alx-intermediate-frontend"]
 	path = alx-intermediate-frontend
 	url = https://github.com/hshaboury/alx-intermediate-frontend.git
+[submodule "alx-listing-app"]
+	path = alx-listing-app
+	url = https://github.com/hshaboury/alx-listing-app.git
